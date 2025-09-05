@@ -1,47 +1,53 @@
-<h1 align="center">Hey there, I'm Fahad Irshad (Burry071) 👋</h1>
+# 🚀 Welcome to My GitHub Profile!  
 
-<p align="center">
-  Aspiring <strong>Software Engineer</strong> | Learning <strong>Python</strong> & <strong>Web3</strong><br>
-  Building bots, diving into blockchain, and leveling up every day!
+Hi there! I'm **Fahad Irshad**, a passionate developer, AI enthusiast, and cloud practitioner.  
+I’m currently learning and experimenting with:  
+- Building scalable AI applications  
+- Exploring LLM architectures  
+- Optimizing machine learning models  
+- Cloud & DevOps best practices  
+
+## 🛠️ Tech Stack  
+
+### 🔹 Programming & Core Concepts  
+<p align="left">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+ <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps  
+<p align="left">
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+ <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+ <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### 🤖 AI & Machine Learning  
+<p align="left">
+ <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+ <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+ <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+### 🏛️ Large Language Models (LLMs)  
+<p align="left">
+ <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
+ <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
+ <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on: **crypto trading bots** and **market analysts**
-- 🌱 Learning: `Python`, `Smart Contracts`, `Blockchain APIs`
-- ⚡ Goals for 2025: Build real-world projects & contribute to open-source
-- 🧠 Always curious about: AI, decentralized tech, and automation
+## 📚 Currently Learning  
+- MCP (Model Context Protocol) Servers  
+- Advanced cloud-native development workflows  
+- Applying LLMs in real-world applications  
 
 ---
 
-### 🛠️ Tech Stack
-
-- **Languages**: Python, HTML, CSS, JavaScript (learning Solidity soon!)
-- **Tools**: Replit, Git, GitHub, VS Code, Postman
-- **Web3**: Smart Contracts (Solidity), CoinGecko API, Binance API, Web3.py (soon)
-
----
-
-### 📈 Let's Connect
-
-- [X (Twitter)](https://x.com/OGfahadweb3)
-- [Instagram](https://www.instagram.com/fahad_gopang765)
-- [Facebook](https://www.facebook.com/share/1EdGi9VPpr/)
-
----
-
-### 🧩 Future Projects (Coming Soon!)
-
-- Crypto Market Analyst Bot
-- Smart Trade Manager with Auto Alerts
-- Web3 Portfolio DApp
-
-> “Code your vision, deploy your hustle.”
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Burry071&show_icons=true&theme=radical" alt="Burry071 GitHub stats" />
-</p>
+📌 *This profile is a work in progress as I continue learning, building, and sharing projects.*
