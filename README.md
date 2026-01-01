@@ -1,53 +1,37 @@
-# 🚀 Welcome to My GitHub Profile!  
+# Fahad Irshad
 
-Hi there! I'm **Fahad Irshad**, a passionate developer, AI enthusiast, and cloud practitioner.  
-I’m currently learning and experimenting with:  
-- Building scalable AI applications  
-- Exploring LLM architectures  
-- Optimizing machine learning models  
-- Cloud & DevOps best practices  
+### Software Development | Artificial Intelligence | Cloud Computing
 
-## 🛠️ Tech Stack  
-
-### 🔹 Programming & Core Concepts  
-<p align="left">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
- <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps  
-<p align="left">
- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
- <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
- <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
-### 🤖 AI & Machine Learning  
-<p align="left">
- <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
- <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
-### 🏛️ Large Language Models (LLMs)  
-<p align="left">
- <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
- <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
- <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />
-</p>
+I am a Computer Science student focused on building a strong foundation in software engineering and exploring the practical applications of machine learning. My current work involves developing logic with C++ and building backend systems with Python. I am dedicated to understanding the full lifecycle of software, from core algorithms to cloud-native deployment.
 
 ---
 
-## 📚 Currently Learning  
-- MCP (Model Context Protocol) Servers  
-- Advanced cloud-native development workflows  
-- Applying LLMs in real-world applications  
+### Technical Skills
+
+**Programming & Core Concepts**
+* Languages: Python, C++
+* Backend: Flask, SQL
+* Database: Vector Databases
+* Fundamentals: Data Structures, Object-Oriented Programming
+
+**Learning & Research Path**
+* Infrastructure: Docker, Google Cloud, Linux
+* Machine Learning: Deep Learning, Model Optimization
+* Frameworks: TensorFlow, PyTorch
+* LLM Research: LLM Architectures, Model Context Protocol (MCP)
 
 ---
 
-📌 *This profile is a work in progress as I continue learning, building, and sharing projects.*
+### Current Objectives
+
+* **Open Source:** Contributing to Python-based projects to improve collaborative development skills.
+* **Algorithmic Growth:** Solving complex problems in C++ to strengthen computational logic.
+* **Project Development:** Building modular applications focused on local AI integration and scalable backend logic.
+
+---
+
+### Contact Information
+
+* **GitHub:** [github.com/Burry071](https://github.com/Burry071)
+* **LinkedIn/Socials:** Links available at the top of my profile.
+* 
