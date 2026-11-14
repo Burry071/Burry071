@@ -53,14 +53,6 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
 </p>
 
 <p align="center">
-  <a href="https://fahadiirshad04-ai-tabib.hf.space/"><img src="assets/card-tabib.svg" alt="AI Tabib: health advice in Urdu is missing or garbage, so I made an AI that answers in Urdu and English" /></a>
-</p>
-
-<p align="center">
-  <a href="https://fahadiirshad04-ai-tabib.hf.space/"><img src="https://img.shields.io/badge/Try_it_live-ff6b35?logo=huggingface&logoColor=white&style=for-the-badge" alt="Try AI Tabib live" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Burry071/sleeve"><img src="assets/card-sleeve.svg" alt="Sleeve: solo build, just me and the wojack. An Android app that downloads media. Fork of Seal. No ads, no tracking, no accounts." /></a>
 </p>
 
@@ -69,6 +61,10 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
   <img src="https://img.shields.io/github/v/release/Burry071/sleeve?style=for-the-badge&color=ff6b35" alt="Sleeve latest release" />
   <img src="https://img.shields.io/github/license/Burry071/sleeve?style=for-the-badge&color=ff6b35" alt="Sleeve license" />
   <img src="https://img.shields.io/github/downloads/Burry071/sleeve/total?style=for-the-badge&color=ff6b35" alt="Sleeve downloads" />
+</p>
+
+<p align="center">
+  <img src="assets/card-tabib.svg" alt="AI Tabib: health advice in Urdu is missing or garbage, so I made an AI that answers in Urdu and English" />
 </p>
 
 <p>
@@ -92,7 +88,7 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
   </picture>
 </p>
 
-- **AI Tabib** — Google Gen AI Academy, Meet the Builders. I got annoyed that health advice in Urdu is either missing or garbage, so I made an AI that answers in Urdu and English. React, FastAPI, Gemini 2.0 Flash, Google Cloud Run. [Live](https://fahadiirshad04-ai-tabib.hf.space/)
+- **AI Tabib** — Google Gen AI Academy, Meet the Builders. I got annoyed that health advice in Urdu is either missing or garbage, so I made an AI that answers in Urdu and English. React, FastAPI, Gemini 2.0 Flash, Google Cloud Run.
   <br><br><img src="https://skillicons.dev/icons?i=python,fastapi,react&theme=dark" height="20" alt="Python, FastAPI, React" />
 
 - **LAND JEZERO** — NASA Space Apps 2026, Multan. NASA said land on Mars. So I made a game where you land on Mars. On real Jezero Crater terrain from NASA, not a made up map. Submitted for judging. [Play it](https://burry071.github.io/land-jezero/) · [Repo](https://github.com/Burry071/land-jezero)
