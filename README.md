@@ -32,14 +32,14 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
 
 <p align="center">or just mail me: <a href="mailto:fahadkhannn90@gmail.com">fahadkhannn90@gmail.com</a></p>
 
-## What the wojack is doing right now
+**What the wojack is doing right now**
 
 - <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="18" alt="GitLab" /> **GitLab:** contributing, because free swag is free swag. My first MR is open: a docs fix in GitLab's language server repo, [!4804](https://gitlab.com/gitlab-org/editor-extensions/gitlab-lsp/-/merge_requests/4804). My [contributor profile](https://contributors.gitlab.com/users/Burry071).
 - <img src="https://skillicons.dev/icons?i=github&theme=dark" height="18" alt="GitHub" /> **Hacktoberfest:** 2026, finished it. Got the sticker pack, the certificate, and the DEV badge.
 - ♞ **Chess:** building a tiny chess engine in 4 KB of Python for a $500 bounty. Yes, there will be chess on this profile soon.
 - 🎓 **Internships:** applying for ML research internships. Fully funded ones only. I have bills to not pay.
 
-## <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="20" alt="Android" /> Solo build, just me and the wojack
+**Solo build, just me and the wojack**
 
 <p align="center">
   <strong>Sleeve</strong> - an Android app that downloads media. It is a fork of Seal. I built the download engine and a bunch of stuff on top of it. No ads, no tracking, no accounts. A fork, not something I made from zero, just saying it straight. <a href="https://github.com/Burry071/sleeve">Repo</a>
@@ -52,22 +52,20 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
   <img src="https://img.shields.io/github/downloads/Burry071/sleeve/total?style=for-the-badge&color=ff6b35" alt="Sleeve downloads" />
 </p>
 
-## <img src="https://skillicons.dev/icons?i=github&theme=dark" height="20" alt="GitHub" /> Hackathons (yes, all of them)
+**Hackathons (yes, all of them)**
 
-| Project | Event | What it is | Built with |
-| --- | --- | --- | --- |
-| **AI Tabib** | Google Gen AI Academy, Meet the Builders | I got annoyed that health advice in Urdu is either missing or garbage, so I made an AI that answers in Urdu and English. React, FastAPI, Gemini 2.0 Flash, Google Cloud Run. [Live](https://fahadiirshad04-ai-tabib.hf.space/) | <img src="https://skillicons.dev/icons?i=python,fastapi,react&theme=dark&perline=3" height="24" alt="Python, FastAPI, React" /> |
-| **LAND JEZERO** | NASA Space Apps 2026, Multan | NASA said land on Mars. So I made a game where you land on Mars. On real Jezero Crater terrain from NASA, not a made up map. Submitted for judging. [Play it](https://burry071.github.io/land-jezero/) - [Repo](https://github.com/Burry071/land-jezero) | <img src="https://skillicons.dev/icons?i=threejs,js&theme=dark&perline=2" height="24" alt="Three.js, JavaScript" /> |
-| **Verso** | Hacktoberfest 2026, DEV Week 4 | The back of the photo: five answers on one on-device Gemma 4 card. No internet permission. [Repo](https://github.com/Burry071/verso) | <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="24" alt="Kotlin" /> |
-| **Sift** | Hacktoberfest 2026, DEV Week 3 | The junk drawer that files itself. On-device Gemma 4, no internet permission. [Repo](https://github.com/Burry071/sift) | <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="24" alt="Kotlin" /> |
+- **AI Tabib** — Google Gen AI Academy, Meet the Builders. I got annoyed that health advice in Urdu is either missing or garbage, so I made an AI that answers in Urdu and English. React, FastAPI, Gemini 2.0 Flash, Google Cloud Run. [Live](https://fahadiirshad04-ai-tabib.hf.space/) <img src="https://skillicons.dev/icons?i=python,fastapi,react&theme=dark" height="20" alt="Python, FastAPI, React" />
+- **LAND JEZERO** — NASA Space Apps 2026, Multan. NASA said land on Mars. So I made a game where you land on Mars. On real Jezero Crater terrain from NASA, not a made up map. Submitted for judging. [Play it](https://burry071.github.io/land-jezero/) · [Repo](https://github.com/Burry071/land-jezero) <img src="https://skillicons.dev/icons?i=threejs,js&theme=dark" height="20" alt="Three.js, JavaScript" />
+- **Verso** — Hacktoberfest 2026, DEV Week 4. The back of the photo: five answers on one on-device Gemma 4 card. No internet permission. [Repo](https://github.com/Burry071/verso) <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="20" alt="Kotlin" />
+- **Sift** — Hacktoberfest 2026, DEV Week 3. The junk drawer that files itself. On-device Gemma 4, no internet permission. [Repo](https://github.com/Burry071/sift) <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="20" alt="Kotlin" />
 
 Same on-device series, also Gemma running fully offline: [Gazette](https://github.com/Burry071/gazette) and [Evenlight](https://github.com/Burry071/evenlight).
 
-## Weapons of choice
+**Weapons of choice**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,kotlin,fastapi,react,threejs,js,ts,docker,linux,git,tensorflow,pytorch,gcp,firebase&theme=dark&perline=8" alt="tech stack" />
 
-## The numbers (because graphs look cool)
+**The numbers (because graphs look cool)**
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Burry071&theme=github_dark" alt="profile details" />
@@ -78,7 +76,7 @@ Same on-device series, also Gemma running fully offline: [Gazette](https://githu
   <img src="https://streak-stats.demolab.com/?user=Burry071&theme=dark&ring=ff6b35&fire=ff6b35" alt="streak" />
 </p>
 
-## The drawer (other stuff)
+**The drawer (other stuff)**
 
 - [Hopehunter](https://github.com/Burry071/hopehunter) - local-first opportunity finder, one Python file.
 - [mobile-production-skills](https://github.com/Burry071/mobile-production-skills)
