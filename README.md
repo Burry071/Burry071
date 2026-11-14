@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/chud-wojack.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/chud-wojack-light.svg" />
-    <img src="assets/chud-wojack.svg" alt="chud wojack" width="420" />
+    <img src="assets/chud-wojack.svg" alt="chud wojack" width="560" />
   </picture>
 </p>
 
@@ -18,7 +18,7 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/pointing-wojack.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/pointing-wojack-light.svg" />
-    <img src="assets/pointing-wojack.svg" alt="wojack pointing at the links" width="300" />
+    <img src="assets/pointing-wojack.svg" alt="wojack pointing at the links" width="480" />
   </picture>
 </p>
 
