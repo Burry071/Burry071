@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="136" viewBox="0 0 640 136">
+  <style>
+    .card { animation: cardIn .5s ease-out backwards; }
+    @keyframes cardIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+  <g class="card">
+    <rect x="0.5" y="0.5" width="639" height="135" rx="12" fill="none" stroke="#8b949e" stroke-width="1"/>
+    <rect x="0" y="0" width="5" height="136" rx="2" fill="#ff6b35"/>
+    <text x="24" y="36" font-family="monospace" font-size="24" font-weight="bold" fill="#ff6b35">Sleeve</text>
+  <text x="24" y="60" font-family="monospace" font-size="15" fill="#6e7681">Solo build, just me and the wojack.</text>
+  <text x="24" y="80" font-family="monospace" font-size="15" fill="#6e7681">An Android app that downloads media.</text>
+  <text x="24" y="100" font-family="monospace" font-size="15" fill="#6e7681">Fork of Seal. I built the download engine.</text>
+  <text x="24" y="120" font-family="monospace" font-size="15" fill="#6e7681">No ads, no tracking, no accounts.</text>
+  </g>
+</svg>

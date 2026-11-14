@@ -46,6 +46,33 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
 
 <p>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-start.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/title-start-light.svg" />
+    <img src="assets/title-start.svg" alt="Start here" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://fahadiirshad04-ai-tabib.hf.space/"><img src="assets/card-tabib.svg" alt="AI Tabib: health advice in Urdu is missing or garbage, so I made an AI that answers in Urdu and English" /></a>
+</p>
+
+<p align="center">
+  <a href="https://fahadiirshad04-ai-tabib.hf.space/"><img src="https://img.shields.io/badge/Try_it_live-ff6b35?logo=huggingface&logoColor=white&style=for-the-badge" alt="Try AI Tabib live" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Burry071/sleeve"><img src="assets/card-sleeve.svg" alt="Sleeve: solo build, just me and the wojack. An Android app that downloads media. Fork of Seal. No ads, no tracking, no accounts." /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Burry071/sleeve?style=for-the-badge&color=ff6b35&logo=github&logoColor=white" alt="Sleeve stars" />
+  <img src="https://img.shields.io/github/v/release/Burry071/sleeve?style=for-the-badge&color=ff6b35" alt="Sleeve latest release" />
+  <img src="https://img.shields.io/github/license/Burry071/sleeve?style=for-the-badge&color=ff6b35" alt="Sleeve license" />
+  <img src="https://img.shields.io/github/downloads/Burry071/sleeve/total?style=for-the-badge&color=ff6b35" alt="Sleeve downloads" />
+</p>
+
+<p>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/title-right-now.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/title-right-now-light.svg" />
     <img src="assets/title-right-now.svg" alt="What the wojack is doing right now" />
@@ -56,25 +83,6 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
 - <img src="https://skillicons.dev/icons?i=github&theme=dark" height="18" alt="GitHub" /> **Hacktoberfest:** 2026, finished it. Got the sticker pack, the certificate, and the DEV badge.
 - ♞ **Chess:** building a tiny chess engine in 4 KB of Python for a $500 bounty. Yes, there will be chess on this profile soon.
 - 🎓 **Internships:** applying for ML research internships. Fully funded ones only. I have bills to not pay.
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/title-solo.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/title-solo-light.svg" />
-    <img src="assets/title-solo.svg" alt="Solo build, just me and the wojack" />
-  </picture>
-</p>
-
-<p align="center">
-  <strong>Sleeve</strong> - an Android app that downloads media. It is a fork of Seal. I built the download engine and a bunch of stuff on top of it. No ads, no tracking, no accounts. A fork, not something I made from zero, just saying it straight. <a href="https://github.com/Burry071/sleeve">Repo</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Burry071/sleeve?style=for-the-badge&color=ff6b35&logo=github&logoColor=white" alt="Sleeve stars" />
-  <img src="https://img.shields.io/github/v/release/Burry071/sleeve?style=for-the-badge&color=ff6b35" alt="Sleeve latest release" />
-  <img src="https://img.shields.io/github/license/Burry071/sleeve?style=for-the-badge&color=ff6b35" alt="Sleeve license" />
-  <img src="https://img.shields.io/github/downloads/Burry071/sleeve/total?style=for-the-badge&color=ff6b35" alt="Sleeve downloads" />
-</p>
 
 <p>
   <picture>
