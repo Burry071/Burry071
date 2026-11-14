@@ -88,17 +88,10 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
   </picture>
 </p>
 
-- **AI Tabib** — Google Gen AI Academy, Meet the Builders. I got annoyed that health advice in Urdu is either missing or garbage, so I made an AI that answers in Urdu and English. React, FastAPI, Gemini 2.0 Flash, Google Cloud Run.
-  <br><br><img src="https://skillicons.dev/icons?i=python,fastapi,react&theme=dark" height="20" alt="Python, FastAPI, React" />
-
-- **LAND JEZERO** — NASA Space Apps 2026, Multan. NASA said land on Mars. So I made a game where you land on Mars. On real Jezero Crater terrain from NASA, not a made up map. Submitted for judging. [Play it](https://burry071.github.io/land-jezero/) · [Repo](https://github.com/Burry071/land-jezero)
-  <br><br><img src="https://skillicons.dev/icons?i=threejs,js&theme=dark" height="20" alt="Three.js, JavaScript" />
-
-- **Verso** — Hacktoberfest 2026, DEV Week 4. The back of the photo: five answers on one on-device Gemma 4 card. No internet permission. [Repo](https://github.com/Burry071/verso)
-  <br><br><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="20" alt="Kotlin" />
-
-- **Sift** — Hacktoberfest 2026, DEV Week 3. The junk drawer that files itself. On-device Gemma 4, no internet permission. [Repo](https://github.com/Burry071/sift)
-  <br><br><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="20" alt="Kotlin" />
+- **AI Tabib** — Google Gen AI Academy, Meet the Builders. AI health answers in Urdu and English. React, FastAPI, Gemini 2.0 Flash.
+- **LAND JEZERO** — NASA Space Apps 2026, Multan. Land on Mars on real Jezero terrain. Three.js. [Play it](https://burry071.github.io/land-jezero/) · [Repo](https://github.com/Burry071/land-jezero)
+- **Verso** — Hacktoberfest 2026, DEV Week 4. Five answers on one on-device Gemma 4 card. [Repo](https://github.com/Burry071/verso)
+- **Sift** — Hacktoberfest 2026, DEV Week 3. The junk drawer that files itself, on-device Gemma 4. [Repo](https://github.com/Burry071/sift)
 
 Same on-device series, also Gemma running fully offline: [Gazette](https://github.com/Burry071/gazette) and [Evenlight](https://github.com/Burry071/evenlight).
 
