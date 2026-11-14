@@ -78,14 +78,6 @@ Same on-device series, also Gemma running fully offline: [Gazette](https://githu
   <img src="https://streak-stats.demolab.com/?user=Burry071&theme=dark&ring=ff6b35&fire=ff6b35" alt="streak" />
 </p>
 
-## The snake eats my commits
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Burry071/Burry071/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Burry071/Burry071/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Burry071/Burry071/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 ## The drawer (other stuff)
 
 - [Hopehunter](https://github.com/Burry071/hopehunter) - local-first opportunity finder, one Python file.
