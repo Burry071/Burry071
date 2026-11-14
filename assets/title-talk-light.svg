@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="50" viewBox="0 0 510 50">
+  <style>
+    text { font-family: monospace; font-size: 22px; font-weight: bold; fill: #24292f; animation: titleIn .5s ease-out backwards; }
+    @keyframes titleIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    .bar { fill: #ff6b35; transform-box: fill-box; transform-origin: left; animation: barIn .7s .15s ease-out backwards; }
+    @keyframes barIn { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <text x="255" y="28" text-anchor="middle">want to talk to the wojack? here.</text>
+  <rect class="bar" x="219" y="40" width="72" height="4" rx="2"/>
+</svg>

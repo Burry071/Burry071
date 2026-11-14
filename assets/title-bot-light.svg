@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="34" viewBox="0 0 560 34">
+  <style>
+    text { font-family: monospace; font-size: 20px; font-weight: normal; fill: #24292f; animation: titleIn .5s ease-out backwards; }
+    @keyframes titleIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    .bar { fill: #ff6b35; transform-box: fill-box; transform-origin: left; animation: barIn .7s .15s ease-out backwards; }
+    @keyframes barIn { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <text x="280" y="26" text-anchor="middle">no, I am not a bot. I just like wojacks.</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="688" height="54" viewBox="0 0 688 54">
+  <style>
+    text { font-family: monospace; font-size: 26px; font-weight: bold; fill: #e6edf3; animation: titleIn .5s ease-out backwards; }
+    @keyframes titleIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    .bar { fill: #ff6b35; transform-box: fill-box; transform-origin: left; animation: barIn .7s .15s ease-out backwards; }
+    @keyframes barIn { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <text x="0" y="32">The numbers (because graphs look cool)</text>
+  <rect class="bar" x="0" y="44" width="72" height="4" rx="2"/>
+</svg>
