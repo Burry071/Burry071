@@ -75,7 +75,7 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
   </picture>
 </p>
 
-- <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="18" alt="GitLab" /> **GitLab:** contributing, because free swag is free swag. My first MR is open: a docs fix in GitLab's language server repo, [!4804](https://gitlab.com/gitlab-org/editor-extensions/gitlab-lsp/-/merge_requests/4804). My [contributor profile](https://contributors.gitlab.com/users/Burry071).
+- <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="18" alt="GitLab" /> **GitLab:** contributing, because free swag is free swag. My first MR, merged: a docs fix in GitLab's language server repo, [!4804](https://gitlab.com/gitlab-org/editor-extensions/gitlab-lsp/-/merge_requests/4804). My [contributor profile](https://contributors.gitlab.com/users/Burry071).
 - <img src="https://skillicons.dev/icons?i=github&theme=dark" height="18" alt="GitHub" /> **Hacktoberfest:** 2026, finished it. Got the sticker pack, the certificate, and the DEV badge.
 - ♞ **Chess:** building a tiny chess engine in 4 KB of Python for a $500 bounty. Yes, there will be chess on this profile soon.
 - 🎓 **Internships:** applying for ML research internships. Fully funded ones only. I have bills to not pay.
@@ -90,10 +90,6 @@ CS student, 3rd semester at MNS UET Multan. I build things that actually work an
 
 - **AI Tabib** — Google Gen AI Academy, Meet the Builders. AI health answers in Urdu and English. React, FastAPI, Gemini 2.0 Flash.
 - **LAND JEZERO** — NASA Space Apps 2026, Multan. Land on Mars on real Jezero terrain. Three.js. [Play it](https://burry071.github.io/land-jezero/) · [Repo](https://github.com/Burry071/land-jezero)
-- **Verso** — Hacktoberfest 2026, DEV Week 4. Five answers on one on-device Gemma 4 card. [Repo](https://github.com/Burry071/verso)
-- **Sift** — Hacktoberfest 2026, DEV Week 3. The junk drawer that files itself, on-device Gemma 4. [Repo](https://github.com/Burry071/sift)
-
-Same on-device series, also Gemma running fully offline: [Gazette](https://github.com/Burry071/gazette) and [Evenlight](https://github.com/Burry071/evenlight).
 
 <p>
   <picture>
@@ -135,16 +131,5 @@ Same on-device series, also Gemma running fully offline: [Gazette](https://githu
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Burry071/Burry071/output/github-contribution-grid-snake.svg" />
   <img alt="snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Burry071/Burry071/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/title-drawer.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/title-drawer-light.svg" />
-    <img src="assets/title-drawer.svg" alt="The drawer (other stuff)" />
-  </picture>
-</p>
-
-- [Hopehunter](https://github.com/Burry071/hopehunter) - local-first opportunity finder, one Python file.
-- [mobile-production-skills](https://github.com/Burry071/mobile-production-skills)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:0d1117&height=100&section=footer" alt="footer wave" />
